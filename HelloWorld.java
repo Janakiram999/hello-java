@@ -23,7 +23,7 @@ public class HelloWorld {
         System.out.println("Hello World, DevOps has arrived!");
         System.out.println("hello janaki ram i love you");
         System.out.println("vgngndgjghgjbgrrgurdgj j");
-        System.out.println("Srija i  love you ");
+        System.out.println("Srija i  love you 1000 ");
     }
 
 }
